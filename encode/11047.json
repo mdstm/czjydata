@@ -1,0 +1,235 @@
+{
+  "id": 11047,
+  "name": "希娜SP",
+  "nick": "雪白桔梗花",
+  "head": "07_pic_chyna_skin01",
+  "draw": "chyna01",
+  "crystal": {
+    "black": [
+      {
+        "name": "无神双眼",
+        "crystals": {
+          "top": [
+            [
+              5013,
+              3
+            ],
+            [
+              5008,
+              2
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5001,
+              1
+            ],
+            [
+              5004,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：无言之殇的伤害提高<span style=\"color:rgb(75, 164, 70)\">20%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "黑暗之中",
+        "crystals": {
+          "top": [
+            [
+              5013,
+              0
+            ],
+            [
+              5008,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              2
+            ],
+            [
+              5017,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：无言之殇的伤害提高<span style=\"color:rgb(75, 164, 70)\">40%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "禁忌之书",
+        "crystals": {
+          "top": [
+            [
+              5013,
+              0
+            ],
+            [
+              5010,
+              1
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              0
+            ],
+            [
+              5017,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5018,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "沉醉花毒",
+        "crystals": {
+          "top": [
+            [
+              5026,
+              2
+            ],
+            [
+              5031,
+              2
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5019,
+              1
+            ],
+            [
+              5022,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：纯白祝福的治疗效果提高<span style=\"color:rgb(75, 164, 70)\">20%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "摇曳的花",
+        "crystals": {
+          "top": [
+            [
+              5026,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              2
+            ],
+            [
+              5035,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：纯白祝福的治疗效果提高<span style=\"color:rgb(75, 164, 70)\">40%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "帝国之花",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              1
+            ],
+            [
+              5030,
+              1
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              0
+            ],
+            [
+              5035,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5036,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": 10041,
+  "name": "莉莉丝",
+  "nick": "放纵的魔王",
+  "head": "07_pic_138",
+  "draw": "lilith",
+  "crystal": {
+    "black": [
+      {
+        "name": "至高魔王",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              3
+            ],
+            [
+              5011,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5002,
+              1
+            ],
+            [
+              5005,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：莉莉丝的黑暗奴仆法球伤害提升<span style=\"color:rgb(75, 164, 70)\">30%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "魔王威压",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              0
+            ],
+            [
+              5011,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              2
+            ],
+            [
+              5018,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：莉莉丝的黑暗奴仆法球伤害提升<span style=\"color:rgb(75, 164, 70)\">50%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "永夜乐土",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              0
+            ],
+            [
+              5011,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              0
+            ],
+            [
+              5018,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5014,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "永恒权能",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              3
+            ],
+            [
+              5029,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5020,
+              1
+            ],
+            [
+              5023,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：莉莉丝的魔王触发层数降低至<span style=\"color:rgb(75, 164, 70)\">7</span>层。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "命定臣服",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              0
+            ],
+            [
+              5029,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              2
+            ],
+            [
+              5036,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：莉莉丝的魔王触发层数降低至<span style=\"color:rgb(75, 164, 70)\">6</span>层。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "致命妖冶",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              0
+            ],
+            [
+              5029,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              0
+            ],
+            [
+              5036,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5032,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

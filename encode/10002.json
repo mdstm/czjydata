@@ -1,0 +1,235 @@
+{
+  "id": 10002,
+  "name": "菲娅",
+  "nick": "绯红苍炎",
+  "head": "07_pic_46",
+  "draw": "phiaserafina",
+  "crystal": {
+    "black": [
+      {
+        "name": "死灵冰寒",
+        "crystals": {
+          "top": [
+            [
+              5008,
+              3
+            ],
+            [
+              5009,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5002,
+              1
+            ],
+            [
+              5003,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：烈焰护盾会额外吸收一定量的伤害，数值相当于菲娅<span style=\"color:rgb(75, 164, 70)\">50%</span>的攻击。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "神言护卫",
+        "crystals": {
+          "top": [
+            [
+              5008,
+              0
+            ],
+            [
+              5009,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              2
+            ],
+            [
+              5016,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：烈焰护盾会额外吸收一定量的伤害，数值相当于菲娅<span style=\"color:rgb(75, 164, 70)\">100%</span>的攻击。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "烈火燎原",
+        "crystals": {
+          "top": [
+            [
+              5008,
+              0
+            ],
+            [
+              5009,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              0
+            ],
+            [
+              5016,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5017,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "神圣冰晶",
+        "crystals": {
+          "top": [
+            [
+              5026,
+              3
+            ],
+            [
+              5027,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5020,
+              1
+            ],
+            [
+              5021,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：主动释放的灼烧伤害提升<span style=\"color:rgb(75, 164, 70)\">50%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "圣光天穹",
+        "crystals": {
+          "top": [
+            [
+              5026,
+              0
+            ],
+            [
+              5027,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              2
+            ],
+            [
+              5034,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：主动释放的灼烧伤害提升<span style=\"color:rgb(75, 164, 70)\">100%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "熔魂之炎",
+        "crystals": {
+          "top": [
+            [
+              5026,
+              0
+            ],
+            [
+              5027,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              0
+            ],
+            [
+              5034,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5035,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

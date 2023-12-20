@@ -1,0 +1,235 @@
+{
+  "id": 10097,
+  "name": "蒂奥娜",
+  "nick": "绯红的女王",
+  "head": "07_pic_240",
+  "draw": "tiona",
+  "crystal": {
+    "black": [
+      {
+        "name": "至美之貌",
+        "crystals": {
+          "top": [
+            [
+              5009,
+              3
+            ],
+            [
+              5010,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5001,
+              1
+            ],
+            [
+              5003,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：<span style=\"color:rgb(220, 103, 39)\">玫瑰</span>印记叠加上限提升至<span style=\"color:rgb(75, 164, 70)\">60</span>层，且进入战斗后获得<span style=\"color:rgb(75, 164, 70)\">10</span>层<span style=\"color:rgb(220, 103, 39)\">玫瑰</span>印记。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "玫瑰花毒",
+        "crystals": {
+          "top": [
+            [
+              5009,
+              0
+            ],
+            [
+              5010,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              2
+            ],
+            [
+              5016,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：<span style=\"color:rgb(220, 103, 39)\">玫瑰</span>印记叠加上限提升至<span style=\"color:rgb(75, 164, 70)\">80</span>层，且进入战斗后获得<span style=\"color:rgb(75, 164, 70)\">20</span>层<span style=\"color:rgb(220, 103, 39)\">玫瑰</span>印记。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "嫉妒之心",
+        "crystals": {
+          "top": [
+            [
+              5009,
+              0
+            ],
+            [
+              5010,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              0
+            ],
+            [
+              5016,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5017,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "树海之王",
+        "crystals": {
+          "top": [
+            [
+              5027,
+              3
+            ],
+            [
+              5028,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5019,
+              1
+            ],
+            [
+              5021,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：自身释放的<span style=\"color:rgb(220, 103, 39)\">女王</span>印记消失时，提升目标<span style=\"color:rgb(75, 164, 70)\">150%</span>防御力，持续<span style=\"color:rgb(75, 164, 70)\">6</span>秒，不可叠加。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "逆命者",
+        "crystals": {
+          "top": [
+            [
+              5027,
+              0
+            ],
+            [
+              5028,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              2
+            ],
+            [
+              5034,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：自身释放的<span style=\"color:rgb(220, 103, 39)\">女王</span>印记消失时，提升目标<span style=\"color:rgb(75, 164, 70)\">300%</span>防御力，持续<span style=\"color:rgb(75, 164, 70)\">6</span>秒，不可叠加。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "树海归心",
+        "crystals": {
+          "top": [
+            [
+              5027,
+              0
+            ],
+            [
+              5028,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              0
+            ],
+            [
+              5034,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5035,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

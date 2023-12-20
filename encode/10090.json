@@ -1,0 +1,235 @@
+{
+  "id": 10090,
+  "name": "斯卡雷蒂",
+  "nick": "护国的霜翼",
+  "head": "07_pic_231",
+  "draw": "scaglietti",
+  "crystal": {
+    "black": [
+      {
+        "name": "凛冬",
+        "crystals": {
+          "top": [
+            [
+              5012,
+              3
+            ],
+            [
+              5013,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5002,
+              1
+            ],
+            [
+              5004,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：寒风之墙造成的伤害提升<span style=\"color:rgb(75, 164, 70)\">25%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "寒流",
+        "crystals": {
+          "top": [
+            [
+              5012,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              2
+            ],
+            [
+              5017,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：寒风之墙造成的伤害提升<span style=\"color:rgb(75, 164, 70)\">50%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "冻土",
+        "crystals": {
+          "top": [
+            [
+              5012,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              0
+            ],
+            [
+              5017,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5018,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "寒冰鳞甲",
+        "crystals": {
+          "top": [
+            [
+              5030,
+              3
+            ],
+            [
+              5031,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5020,
+              1
+            ],
+            [
+              5022,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：寒风之墙释放时获得额外所受伤害降低<span style=\"color:rgb(75, 164, 70)\">15%</span>的效果。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "绝对零度",
+        "crystals": {
+          "top": [
+            [
+              5030,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              2
+            ],
+            [
+              5035,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：寒风之墙释放时获得额外所受伤害降低<span style=\"color:rgb(75, 164, 70)\">30%</span>的效果。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "冰霜霸主",
+        "crystals": {
+          "top": [
+            [
+              5030,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              0
+            ],
+            [
+              5035,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5036,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

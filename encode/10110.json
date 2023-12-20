@@ -1,0 +1,235 @@
+{
+  "id": 10110,
+  "name": "宁芙",
+  "nick": "静谧的湖水",
+  "head": "07_pic_nymph",
+  "draw": "nymph",
+  "crystal": {
+    "black": [
+      {
+        "name": "无垢之雨",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              3
+            ],
+            [
+              5012,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5001,
+              1
+            ],
+            [
+              5002,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：宁芙的水之痕迹对冰霜系技能的伤害提升增加至<span style=\"color:rgb(75, 164, 70)\">10%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "流水潺潺",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              0
+            ],
+            [
+              5012,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              2
+            ],
+            [
+              5017,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：宁芙的水之痕迹对冰霜系技能的伤害提升增加至<span style=\"color:rgb(75, 164, 70)\">12%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "荡涤世界",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              0
+            ],
+            [
+              5012,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5015,
+              0
+            ],
+            [
+              5017,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5018,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "水之安抚",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              3
+            ],
+            [
+              5030,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5019,
+              1
+            ],
+            [
+              5020,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：宁芙苍色圣域的治疗效果提升<span style=\"color:rgb(75, 164, 70)\">20%</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "水之恩泽",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              0
+            ],
+            [
+              5030,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              2
+            ],
+            [
+              5035,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：宁芙苍色圣域的治疗效果提升<span style=\"color:rgb(75, 164, 70)\">40%</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "水之伟力",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              0
+            ],
+            [
+              5030,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5033,
+              0
+            ],
+            [
+              5035,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5036,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

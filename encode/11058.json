@@ -1,0 +1,235 @@
+{
+  "id": 11058,
+  "name": "艾拉雪尔",
+  "nick": "金币猎手",
+  "head": "07_pic_arashell",
+  "draw": "arashell",
+  "crystal": {
+    "black": [
+      {
+        "name": "欺诈罪",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              3
+            ],
+            [
+              5013,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5001,
+              1
+            ],
+            [
+              5003,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：艾拉雪尔的主动技能造成伤害时，赋予敌方受到的治疗效果降低<span style=\"color:rgb(75, 164, 70)\">40%</span>的效果，持续<span style=\"color:rgb(75, 164, 70)\">4</span>秒。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "恶贯满盈",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5006,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              2
+            ],
+            [
+              5015,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：艾拉雪尔的主动技能造成伤害时，赋予敌方受到的治疗效果降低<span style=\"color:rgb(75, 164, 70)\">80%</span>的效果，持续<span style=\"color:rgb(75, 164, 70)\">4</span>秒。",
+          "<span style=\"color:#DC6727\">9级</span>：每过6秒提升自身的输出伤害<span style=\"color:rgb(75, 164, 70)\">5%</span>，可叠加<span style=\"color:rgb(75, 164, 70)\">6</span>层。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "通缉犯",
+        "crystals": {
+          "top": [
+            [
+              5010,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              0
+            ],
+            [
+              5015,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5016,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "纷扬大雪",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              3
+            ],
+            [
+              5031,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5019,
+              1
+            ],
+            [
+              5021,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：进场时，艾拉雪尔的攻击力降低<span style=\"color:rgb(75, 164, 70)\">15%</span>，增伤等级提高<span style=\"color:rgb(75, 164, 70)\">40级</span>。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "刺骨之寒",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5024,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              2
+            ],
+            [
+              5033,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：进场时，艾拉雪尔的攻击力降低<span style=\"color:rgb(75, 164, 70)\">15%</span>，增伤等级提高<span style=\"color:rgb(75, 164, 70)\">60级</span>。",
+          "<span style=\"color:#DC6727\">9级</span>：自身获得基础<span style=\"color:rgb(75, 164, 70)\">5%</span>所受伤害降低，同时自身所受伤害的<span style=\"color:rgb(75, 164, 70)\">30%</span>会在随后的<span style=\"color:rgb(75, 164, 70)\">3</span>秒内持续扣除。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "孑然一身",
+        "crystals": {
+          "top": [
+            [
+              5028,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              0
+            ],
+            [
+              5033,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5034,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}

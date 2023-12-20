@@ -1,0 +1,235 @@
+{
+  "id": 10116,
+  "name": "拉弥娅",
+  "nick": "溺醉的强欲",
+  "head": "07_pic_lamia",
+  "draw": "lamia",
+  "crystal": {
+    "black": [
+      {
+        "name": "酿造血泪",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              3
+            ],
+            [
+              5013,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5002,
+              1
+            ],
+            [
+              5003,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：拉弥娅进场时额外获得<span style=\"color:rgb(75, 164, 70)\">1</span>层<span style=\"color:rgb(220, 103, 39)\">美酒</span>层数"
+        ],
+        "level": 1
+      },
+      {
+        "name": "极乐之宴",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5007,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              2
+            ],
+            [
+              5015,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：拉弥娅进场时额外获得<span style=\"color:rgb(75, 164, 70)\">2</span>层<span style=\"color:rgb(220, 103, 39)\">美酒</span>层数",
+          "<span style=\"color:#DC6727\">9级</span>：每次能量条清空时，自身175距离内的友军提升<span style=\"color:rgb(75, 164, 70)\">10%</span>的基础攻击力, 持续<span style=\"color:rgb(75, 164, 70)\">3</span>秒。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "权力迷宫",
+        "crystals": {
+          "top": [
+            [
+              5011,
+              0
+            ],
+            [
+              5013,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5014,
+              0
+            ],
+            [
+              5015,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5016,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：攻击力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "white": [
+      {
+        "name": "胜者甘酿",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              3
+            ],
+            [
+              5031,
+              3
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              2
+            ]
+          ],
+          "bot": [
+            [
+              5020,
+              1
+            ],
+            [
+              5021,
+              1
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">9级</span>：拉弥娅的濒死回血触发次数提升至一场战斗<span style=\"color:rgb(75, 164, 70)\">2</span>次。"
+        ],
+        "level": 1
+      },
+      {
+        "name": "强者之权",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5025,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              2
+            ],
+            [
+              5033,
+              2
+            ]
+          ]
+        },
+        "texts": [
+          "<span style=\"color:#DC6727\">8级</span>：拉弥娅的濒死回血触发次数提升至一场战斗<span style=\"color:rgb(75, 164, 70)\">3</span>次。",
+          "<span style=\"color:#DC6727\">9级</span>：战斗开始后，自身与前排单位获得所受的溢出治疗值的<span style=\"color:rgb(75, 164, 70)\">20%</span>将转化为护盾值的效果，护盾值可叠加，最大为自身生命值的<span style=\"color:rgb(75, 164, 70)\">10%</span>。"
+        ],
+        "level": 2
+      },
+      {
+        "name": "黄金之梦",
+        "crystals": {
+          "top": [
+            [
+              5029,
+              0
+            ],
+            [
+              5031,
+              0
+            ]
+          ],
+          "bot": [
+            [
+              5032,
+              0
+            ],
+            [
+              5033,
+              0
+            ]
+          ],
+          "mid": [
+            [
+              5034,
+              1
+            ]
+          ]
+        },
+        "states": [
+          "<span style=\"color:#DC6727\">7级（额外）</span>：生命增加 120000",
+          "<span style=\"color:#DC6727\">8级（额外）</span>：防御力 13000 "
+        ],
+        "level": 3
+      }
+    ],
+    "blackSpan": {
+      "1": [],
+      "2": []
+    },
+    "whiteSpan": {
+      "1": [],
+      "2": []
+    }
+  }
+}
